@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/6FYc8331IJcAAAAi/turkey-tur.gif)
+[![MasterHead](https://c.tenor.com/ZV0SvRxu370AAAAd/tenor.gif)
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">I am Turkish, and being a web developer is my biggest dream!</h3>
