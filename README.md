@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/ZV0SvRxu370AAAAd/tenor.gif)
+[![MasterHead](https://flags-world.com/wp-content/uploads/2021/08/flag-Turcii.png)
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">I am Turkish, and being a web developer is my biggest dream!</h3>
